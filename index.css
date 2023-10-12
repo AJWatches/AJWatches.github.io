@@ -1,0 +1,16 @@
+main{
+    padding-top: 110px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+    border-radius: 10px;
+}
+h2{
+    position: absolute;
+    top: 50%;
+    width: 13%;
+    margin: 10px;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+
+main{
+    padding-top: 90px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: radial-gradient(darkgrey, rgb(42, 42, 42));
+    background-repeat: no-repeat;
+    height: 100%;
+}
+div{
+    display: inline-block;
+    margin: max(20px, 5%);
+    width: 230px;
+    height: 230px;
+}
+h2{
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+img{
+    height: 100%;
+    max-width: 100%;
+    object-fit: cover; 
+}

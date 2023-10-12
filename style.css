@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    width: 100%;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: stretch;
+}
+li{
+    display: block;
+    flex: 0 1 auto;
+    color: black;
+    width: 110px;
+    text-align: center;
+}
+.huidigePagina{
+    color: white;
+}
+.titel{
+    text-align: center;
+}
+header{
+    background-color: #b27a01;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+}

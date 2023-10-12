@@ -1,0 +1,19 @@
+html{
+    background: radial-gradient(darkgrey, rgb(42, 42, 42));
+    background-repeat: no-repeat;
+    height: 100%;
+}
+main{
+    height: 100%;
+    padding-top: 110px;
+    display: flex;
+    justify-content: space-between;
+}
+section{
+    display: block;
+    height: 100%;
+    max-width: 60%;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+}
